@@ -1,1 +1,1 @@
-# Projekt-analiza_ocen_studentow
+# Projekt - analiza ocen studentów
